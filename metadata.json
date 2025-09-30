@@ -1,0 +1,5 @@
+{
+  "name": "Recipe Generator",
+  "description": "Generate delicious recipes based on the ingredients you have, with options for cuisine type and dietary restrictions. This app uses AI to create custom recipes and generate a unique image for each dish.",
+  "requestFramePermissions": []
+}
